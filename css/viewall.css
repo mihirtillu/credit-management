@@ -1,0 +1,25 @@
+
+#hrow{
+    background-color: #000000;
+}
+body{
+
+    background-image: url("bg.jpg");
+}
+#add_user{
+    height: 10%;
+    width: 15%;
+    margin-top: 3% ;
+    margin-left: 45%;
+}
+h1{
+    color: white;
+}
+#hist{
+    margin-left: 48%;
+    margin-top: 5%;
+    color: red;
+}
+a{
+    color: red !important;
+}

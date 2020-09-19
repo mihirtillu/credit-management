@@ -1,0 +1,40 @@
+#box{
+    background-color: #202020;
+    margin-left: 10%;
+    margin-top: 10%;
+    width: 75%;
+    height: 70%;
+    border-radius: 10px;
+    text-align: center;
+    color: #ffffff;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+}
+#box:hover{
+    transform: scale(1.01);
+    box-shadow:0 0 10px rgba(255,255,255,0.3);
+}
+img{
+    width: 55%;
+    height: 55%;
+    padding-left: 7%;
+    margin-left: -5%;
+
+}
+#btna{
+    color: #ffffff;
+    width: 23%;
+    height: 10%;
+    margin-top: 3%;
+}
+body{
+    background-image: url("bg.jpg");
+    width: 100%;
+    height: 100%;
+}
+#btnh{
+    color: #ffffff;
+    width: 25%;
+    height: 10%;
+    margin-top: 3%;
+    margin-left: 8%;
+}
